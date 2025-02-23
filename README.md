@@ -20,8 +20,8 @@ I'm **[`Ritik Raj`](https://www.youtube.com/@lostsecc)**, a hacker & Security Re
 
 - **Name**: Ritik Raj
 - **From**: Russia
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- I have experience in cracking, reverse Engineering, bug Hunting, forensics, Social engineering, and spying.
+- **Bug Hunter** | **Security Researcher** | **Forensics Analyst**
+- I have experience in cracking, reverse Engineering, bug hunting, forensics, Social engineering, and spying.
 - **Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything**
@@ -52,18 +52,18 @@ I'm **[`Ritik Raj`](https://www.youtube.com/@lostsecc)**, a hacker & Security Re
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-<h3> Skills</h3>
+<h3>Skills</h3>
 <ul>
-  <li>Bug Hunting</li>
-  <li>Malware Analysis</li>
-  <li>Reverse Engineering</li>
-  <li>Forensics Analysis</li>
-  <li>Social Engineering</li>
-  <li>Penetration Testing</li>
-  <li>Vulnerability Assessment</li>
-  <li>Website Vulnerabilities</li>
-  <li>Mobile Penetration Testing</li>
-  <li>Web3 Security</li>
+  <li><strong>Bug Hunting</strong>: Identifying and reporting security vulnerabilities.</li>
+  <li><strong>Malware Analysis</strong>: Investigating malicious software to understand its behavior.</li>
+  <li><strong>Reverse Engineering</strong>: Analyzing and understanding the inner workings of software.</li>
+  <li><strong>Forensics Analysis</strong>: Investigating digital traces to uncover evidence in cyber incidents.</li>
+  <li><strong>Social Engineering</strong>: Manipulating individuals to gain confidential information.</li>
+  <li><strong>Penetration Testing</strong>: Conducting security tests to identify system vulnerabilities.</li>
+  <li><strong>Vulnerability Assessment</strong>: Evaluating systems for potential weaknesses.</li>
+  <li><strong>Website Vulnerabilities</strong>: Understanding and exploiting weaknesses in web applications.</li>
+  <li><strong>Mobile Penetration Testing</strong>: Securing and identifying vulnerabilities in mobile applications.</li>
+  <li><strong>Web3 Security</strong>: Ensuring the safety of decentralized technologies and blockchain platforms.</li>
 </ul>
 
 <h3>Tools</h3>
@@ -72,6 +72,7 @@ I'm **[`Ritik Raj`](https://www.youtube.com/@lostsecc)**, a hacker & Security Re
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Nmap-0077B5?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
@@ -80,7 +81,6 @@ I'm **[`Ritik Raj`](https://www.youtube.com/@lostsecc)**, a hacker & Security Re
       <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Nmap-0077B5?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
@@ -111,25 +111,4 @@ I'm **[`Ritik Raj`](https://www.youtube.com/@lostsecc)**, a hacker & Security Re
   <li><strong>NASA</strong> - Recognized for contributions in cybersecurity and vulnerability assessments</li>
   <li><strong>Drexel University</strong> - Awarded for exceptional research in malware analysis and ethical hacking</li>
   <li><strong>Google</strong> - Acknowledged for contributions to improving internet security and bug hunting</li>
-  <li><strong>Department of Defense (DoD)</strong> - Recognized for significant contributions in national cybersecurity defense</li>
-</ul>
-
----
-
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Ritik Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikrajxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/ritikrajxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ritikrajxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/ritikrajxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrajxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
-<br><br>
-
-<h2 id="donate" align=''> Support⚡️</h2>
-
-<details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-<p align="center"><a href="https
+  <li><strong>Department of Defense (DoD)</strong> - Recognized for

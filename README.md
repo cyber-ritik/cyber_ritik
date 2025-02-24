@@ -28,7 +28,7 @@ I'm **[`Ritik Raj`](https://in.linkedin.com/in/cyber-ritik)**, a hacker & Securi
 
 👉 Currently Learning Blue Teaming
 
-
+<h2 id="certificates" align=''>Certificates 📜</h2> <ul> <li><strong>Certified Ethical Hacker (CEH)</strong> – EC-Council</li> <li><strong>EC-Council's Ethical Hacking (EEH)</strong> – EC-Council</li> </ul>
 
 ---
 
@@ -77,3 +77,14 @@ I'm **[`Ritik Raj`](https://in.linkedin.com/in/cyber-ritik)**, a hacker & Securi
 <li><strong>Drexel University</strong> - Awarded for finding vulnerability</li>
 <li><strong>Google</strong> - Acknowledged for contributions to improving internet security and bug hunting</li>
 <li><strong>Department of Defense (DoD)</strong> - Recognized for finding multiple security issue</li>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 
 
-I'm **[`Ritik Raj`](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Ritik Raj`](https://x.com/Cyber_Ritik)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
 <summary>More about me</summary>

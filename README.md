@@ -1,16 +1,16 @@
 
 
-I'm **[`Ritik Raj`](https://x.com/Cyber_Ritik)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Ritik Raj`](https://in.linkedin.com/in/cyber-ritik)**, a hacker & Security Analyst, and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
 <summary>More about me</summary>
 
 - **Name**: Ritik Raj
 - **From**: India
-- **Bug Hunter** | **Security Researcher** 
+- **Bug Hunter** | **Security Analyst** 
 - I have experience in Bug Hunting, VAPT, API Pentesting, Web Pentesting, Android Pentesting 
 - Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything**
+- I’m currently learning **Blue Teaming**
 - Reach me out at **cyberritik887@gmail.com**
 
 </details>
@@ -26,9 +26,9 @@ I'm **[`Ritik Raj`](https://x.com/Cyber_Ritik)**, a hacker & Security Researcher
 
 👉 Writing Some Useful Tools For Myself 
 
-👉 Currently Learning mobile pentesting & web3
+👉 Currently Learning Blue Teaming
 
-`Updating:` Journey to Cybersecurity Specialist.
+
 
 ---
 
@@ -85,7 +85,7 @@ I'm **[`Ritik Raj`](https://x.com/Cyber_Ritik)**, a hacker & Security Researcher
 </p>
 
 <ul>
-<li><strong>NASA</strong> - Recognized for contributions in cybersecurity and vulnerability assessments</li>
-<li><strong>Drexel University</strong> - Awarded for exceptional research in malware analysis and ethical hacking</li>
+<li><strong>NASA</strong> - Recognized for contributions for finding vulnerability</li>
+<li><strong>Drexel University</strong> - Awarded for finding vulnerability</li>
 <li><strong>Google</strong> - Acknowledged for contributions to improving internet security and bug hunting</li>
-<li><strong>Department of Defense (DoD)</strong> - Recognized for
+<li><strong>Department of Defense (DoD)</strong> - Recognized for finding multiple security issue</li>

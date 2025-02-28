@@ -28,7 +28,7 @@ I'm **[`Ritik Raj`](https://in.linkedin.com/in/cyber-ritik)**, a hacker & Securi
 
 👉 Currently Learning Blue Teaming
 
-<h2 id="certificates" align=''>Certificates 📜</h2> <ul> <li><strong>Certified Ethical Hacker (CEH)</strong> – EC-Council</li> <li><strong>EC-Council's Ethical Hacking (EEH)</strong> – EC-Council</li> </ul>
+<h2 id="certificates" align=''>Certificates 📜</h2> <ul> <li><strong>EC-Council's Ethical Hacking (EEH)</strong> – EC-Council</li> </ul>
 
 ---
 
